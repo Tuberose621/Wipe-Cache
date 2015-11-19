@@ -8,7 +8,7 @@
 
 #import "UIImage+CYExtension.h"
 
-@implementation UIImage (XMGExtension)
+@implementation UIImage (CYExtension)
 - (instancetype)circleImage
 {
     // 开启图形上下文

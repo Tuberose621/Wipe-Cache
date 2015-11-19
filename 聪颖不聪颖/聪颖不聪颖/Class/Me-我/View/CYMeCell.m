@@ -40,7 +40,7 @@
     self.imageView.width = self.imageView.height;
     
     // 调整Label
-    //    self.textLabel.x = self.imageView.x + self.imageView.width + XMGCommonMargin;
+    //    self.textLabel.x = self.imageView.x + self.imageView.width + CYCommonMargin;
     self.textLabel.x = CGRectGetMaxX(self.imageView.frame) + CYCommonMargin;
     
     // CGRectGetMaxX(self.imageView.frame) == self.imageView.x + self.imageView.width
