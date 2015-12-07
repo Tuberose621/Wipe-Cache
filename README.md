@@ -568,5 +568,3 @@ static NSString * const CYDefaultText = @"清除缓存";
 
 
 
-- **项目地址：https://github.com/Tuberose621/Wipe-Cache**
-**如果可以的话，Give me a star!**
